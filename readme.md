@@ -1,4 +1,4 @@
-ML-Unity-DetailedGuide
+#ML-Unity-DetailedGuide
 
 A collection of different projects in Unity about ML-Agents such as **DungeonEscape**, **Sorter**, and **WallJump** for reinforcement learning using Unity environments. I felt that the original did not have enough detailed steps on running the model, so being the newcomer to Unity myself, I'm working on this project. My aim with this project is to guide people step by step, who may be having similar challenges when starting off.
 
